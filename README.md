@@ -6,6 +6,6 @@ ____
 - [X] Бриф // [brief.md](https://github.com/alyferryhalo/2021_webDesign/blob/main/brief.md)
 - [X] Анализ конкурентов // [competitors.md](https://github.com/alyferryhalo/2021_webDesign/blob/main/competitors.md)
 - [X] Анализ потребностей ЦА // [needsMatrix.md](https://github.com/alyferryhalo/2021_webDesign/blob/main/needsMatrix.md)
-- [ ] Текстовый прототип // [textPrototype.md](https://github.com/alyferryhalo/2021_webDesign/blob/main/textPrototype.md)
+- [X] Текстовый прототип // [textPrototype.md](https://github.com/alyferryhalo/2021_webDesign/blob/main/textPrototype.md)
 ____
 ## Домашнее задание №2
