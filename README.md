@@ -9,6 +9,8 @@ ____
 - [X] Текстовый прототип // [textPrototype.md](https://github.com/alyferryhalo/2021_webDesign/blob/main/textPrototype.md)
 ____
 ## Домашнее задание №2
-- [ ] Прототип первых 2-х экранов для устройств: компьютер; планшет; телефон
+- [X] Прототип: компьютер // [Компьютер](https://www.figma.com/file/rHPpHMte1yy4xDPy6yrnm8/WEB_comp_MEMES?node-id=0%3A1)
+- [ ] Прототип: планшет // 
+- [ ] Прототип: телефон // 
 ____
 ## Домашнее задание №3
